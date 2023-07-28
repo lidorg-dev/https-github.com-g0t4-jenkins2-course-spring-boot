@@ -525,7 +525,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-ws</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>1.4.7.RELEASE</version>
 			</dependency>
 
 			<!-- Third Party -->
