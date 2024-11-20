@@ -191,13 +191,13 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.2.11</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
 				<type>test-jar</type>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.2.11</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -238,7 +238,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-configuration-processor</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>1.4.4.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
