@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-antlib</artifactId>
-			<version>1.4.0.BUILD-SNAPSHOT</version>
+			<version>3.4.0</version>
 		</dependency>
 	</dependencies>
 	<build>
@@ -60,8 +60,8 @@
 						<phase>package</phase>
 						<configuration>
 							<target>
-								<property name="build.compiler" value="extJavac" />
-								<ant dir="${basedir}" />
+								<property name="build.compiler" value="extJavac"/>
+								<ant dir="${basedir}"/>
 							</target>
 						</configuration>
 						<goals>
@@ -83,7 +83,7 @@
 					<dependency>
 						<groupId>org.springframework.boot</groupId>
 						<artifactId>spring-boot-antlib</artifactId>
-						<version>1.4.0.BUILD-SNAPSHOT</version>
+						<version>3.4.0</version>
 					</dependency>
 				</dependencies>
 			</plugin>
